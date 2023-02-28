@@ -1,0 +1,21 @@
+/* fonts ------------------------------------------------------- */
+.titulos{
+    font-family: 'Tilt Neon', cursive;
+}
+
+.textos{
+    font-family: 'Roboto Mono', monospace;
+}
+
+/* cabecalho ---------------------------------------------------------------- */
+.cabecalho{
+    background-color: burlywood;
+}
+
+.titulo-site{
+    color: #fff;
+}
+
+#itens-menu{
+    color: #fff;
+}
